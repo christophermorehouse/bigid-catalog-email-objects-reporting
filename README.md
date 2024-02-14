@@ -63,7 +63,7 @@ You can install cx_Freeze in a Python environment by running the following comma
 pip install --upgrade cx_Freeze
 ```
 
-Once cx_Freeze is installed you can continue with building the self-contained package by executing the build.sh script with the following command: 
+Once cx_Freeze is installed you can continue with building the self-contained package by executing the build script with the following command: 
 
 For Windows:
 ```sh
