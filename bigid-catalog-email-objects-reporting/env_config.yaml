@@ -1,0 +1,8 @@
+Script Parameters:
+- catalog_export_file_path: C:\path\to\input.csv
+- final_reports_folder_path: C:\path\to\output\directory
+- max_threads: 5
+
+BigID Server:
+- bigid_url: https://bigidhost.com
+- bigid_auth_token: enter_auth_token_here
